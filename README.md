@@ -1,0 +1,2 @@
+# leetcode
+self leetcode study
